@@ -1,2 +1,3 @@
 # Homefirst_Hackathon
-Web App for density plots on Point of interests
+Density plots and Knowledge Graph
+# Exploring how extracted data features can be leveraged for Homefirst purposes through ML/AI techniques ie. making Knowledge Graphs and Taxonomies. Focus is on how these and other heterogeneous data sources and techniques can be combined into a flexible architecture that can further build a high level Architecture to create Taxonomies and Knowledge Graphs. Use the Graph Index and Other representations to tell the Relations, for let's say, a Search Recommendation System. Knowledge graphs can be made by using data/CSV for better SEO to leveraging taxonomy ie. Combining knowledge graphs and machine learning etc.
